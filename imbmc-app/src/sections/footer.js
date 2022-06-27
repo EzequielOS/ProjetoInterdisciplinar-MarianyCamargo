@@ -9,36 +9,26 @@ import vivareal from '../imgs/vivareal.png'
 class Footer extends Component {
     render() {
         return (
-            <footer className="row justify-content-between p-5">
-                <div className="pe-5">
-                    <div className="col-4">
+            <footer className="d-flex flex-row justify-content-between p-5">
+                <div className="d-flex flex-row p-3">
+                    <p>+55 34 99928-4080</p>
                     <a href="">
-                        <div className="">
-                            <img src={whatsapp} className="imgfooter" />
-                        </div>
-                        <p>+55 34 99928-4080</p>
+                        <img src={whatsapp} className="imgfooter" />
                     </a>
-                    </div>
                 </div>
-                <div className="col-4">
+                <div className="d-flex flex-row col-4">
                     <p>Viva Real</p>
                     <a href="">
-                        <div className="">
-                            <img src={vivareal} alt="" className="imgfooter"/>
-                        </div>
+                        <img src={vivareal} alt="" className="imgfooter" />
                     </a>
                 </div>
-                <div className="col-4">
+                <div className="d-flex flex-row col-4">
                     <p>Redes Sociais</p>
                     <a href="">
-                        <div className="">
-                            <img src={instagram} alt="" className="imgfooter"/>
-                        </div>
+                        <img src={instagram} alt="" className="imgfooter" />
                     </a>
                     <a href="">
-                        <div className="">
-                            <img src={youtube} alt="" className="imgfooter"/>
-                        </div>
+                        <img src={youtube} alt="" className="imgfooter" />
                     </a>
                 </div>
             </footer>
