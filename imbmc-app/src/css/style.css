@@ -53,8 +53,9 @@ input {
 
 
 .quemsoueufoto {
-    width: 100%;
+    width: 50%;
     box-shadow: 5px 5px 5px #737373;
+    margin-left: 30%;
 }
 
 .bgcinza {
@@ -106,4 +107,10 @@ input {
 .cttofoto {
     width: 100%;
     box-shadow: 5px 5px 5px #737373;
+}
+
+.ccaption{
+    background-color: #ffffff70;
+    text-align: center;
+
 }

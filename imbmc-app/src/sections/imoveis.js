@@ -29,8 +29,10 @@ class Imoveis extends Component {
                                 alt="First slide"
                             />
                             <Carousel.Caption>
-                                <h5>First slide label</h5>
-                                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                                <div className="ccaption">
+                                    <h5>First slide label</h5>
+                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                                </div>
                             </Carousel.Caption>
                         </Carousel.Item>
                         <Carousel.Item>
