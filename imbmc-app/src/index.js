@@ -13,3 +13,7 @@ root.render(<App/>);
 //executar os dois comandos sempre que baixar ou clonar o projeto
 //npm install
 //npm install react-bootstrap bootstrap
+
+
+//centralizar as imgs da mari
+//criar os depoimentos

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../css/style.css';
-import quemsoueufoto from '../imgs/quemsoueufoto.jpeg'
+import quemsoueufoto from '../imgs/quemsoueufoto.png'
 
 class Quemsoueu extends Component {
     render() {
@@ -10,13 +10,13 @@ class Quemsoueu extends Component {
                 <div className="row justify-content-center p-5">
                     <div className="col-md-auto ">
                         <h2>Quem sou eu?</h2>
-                        <h4>(Um serviço personalizado na escolha do seu imovel)</h4>
+                        <h4>Casada, mãe e uma mulher em constante aprendizagem</h4>
                     </div>
                 </div>
     
                 <div className="d-xl-flex justify-content-center">
                     <div className="pe-5">
-                        <img src={quemsoueufoto} alt="" className="quemsoueufoto"/>
+                        <img src={quemsoueufoto} alt="" className="quemsoueufoto quemsoueufotopq"/>
                     </div>
                     <div className="align-self-md-center p-5">
                         <p>Corretora de imóveis,
