@@ -16,7 +16,7 @@ class Contato extends Component {
                 </div>
     
                 <div className="d-xl-flex justify-content-center">
-                    <div className="pe-5">
+                    <div className="centro">
                         <img src={contatofoto} alt="" className="quemsoueufoto quemsoueufotopq"/>
                     </div>
                     <div className="align-self-md-center p-5">

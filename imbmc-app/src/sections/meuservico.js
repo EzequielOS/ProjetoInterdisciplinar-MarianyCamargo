@@ -11,7 +11,7 @@ class Meuservico extends Component {
                     <div className="row justify-content-center p-5">
                         <div className="col-md-auto ">
                             <h2>Meu serviço</h2>
-                            <h4>(Um serviço personalizado na escolha do seu imovel)</h4>
+                            <h4>Cada dia mais competente para atender meus clientes</h4>
                         </div>
                     </div>
 

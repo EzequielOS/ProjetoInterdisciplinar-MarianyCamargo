@@ -60,6 +60,9 @@ input {
 
 .quemsoueufoto {
     box-shadow: 5px 5px 5px #737373;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .bgcinza {
@@ -142,6 +145,16 @@ input {
     padding-right: 10px;
 }
 
+.imgsdepo{
+    width: 55%;
+    box-shadow: 5px 5px 5px #737373;
+    margin-bottom: -17%;
+}
+
+.centro{
+    text-align: center;
+}
+
 @media screen and (max-width:1100px) {
     .telagrande{
         position: absolute;
@@ -160,6 +173,3 @@ input {
     }
 }
 
-div{
-    align-items: center;
-}

@@ -15,7 +15,7 @@ class Quemsoueu extends Component {
                 </div>
     
                 <div className="d-xl-flex justify-content-center">
-                    <div className="pe-5">
+                    <div className="centro">
                         <img src={quemsoueufoto} alt="" className="quemsoueufoto quemsoueufotopq"/>
                     </div>
                     <div className="align-self-md-center p-5">

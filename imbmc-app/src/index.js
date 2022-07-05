@@ -15,5 +15,5 @@ root.render(<App/>);
 //npm install react-bootstrap bootstrap
 
 
-//centralizar as imgs da mari
-//criar os depoimentos
+//justificar textos
+//criar os depoimentos coma mary
