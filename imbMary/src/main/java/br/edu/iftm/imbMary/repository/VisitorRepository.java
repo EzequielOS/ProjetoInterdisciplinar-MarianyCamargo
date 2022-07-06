@@ -1,9 +1,9 @@
 package br.edu.iftm.imbMary.repository;
 
-import org.springframework.data.jpa.repository.JpaRepository;
 import br.edu.iftm.imbMary.domain.Visitor;
+import org.springframework.data.repository.CrudRepository;
 
 
-public interface VisitorRepository extends JpaRepository<Visitor, Long> {
+public interface VisitorRepository extends CrudRepository<Visitor, Integer> {
 
 }
